@@ -8,18 +8,20 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ - Creates a dartboard in which darts can be thrown at
+ - Plays a game with 2 players taking turns throwing darts
+ - Uses a Monte Carlo simulation to determine an approximation of the value pi 
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ none
 
 ## REFERENCES:
- < List any outside resources used >
+ none
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ none
