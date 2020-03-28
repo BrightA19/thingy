@@ -1,16 +1,14 @@
-#### CS 110
-# Lab 4 - Selection
+# CS 110
+## Lab 5 - 3np1
 
-### [Assignment Description](https://docs.google.com/document/d/1QfPsRfo1kZoQw4p0DhjxZskNfE0eLAV6Z6SgPSleDM4/edit?usp=sharing)
+### [Assignment Description](https://docs.google.com/document/d/1k8qs8vIsvlLiU3KX9Uql6LjVPWp0CBAjo_oArBhH2k4/edit?usp=sharing)
 
 ***
 
-_Replace anything surrounded by the `< >` symbols._
-
 ## SUMMARY:
- - Creates a dartboard in which darts can be thrown at
- - Plays a game with 2 players taking turns throwing darts
- - Uses a Monte Carlo simulation to determine an approximation of the value pi 
+This program uses the 3n+1 sequence to graph the number of iterations it takes
+for a number to get to 1, for numbers 1 to a user-inputted upper bound
+(inclusive)
 
 ## GRACE DAYS
 Grace days used for this assignment: 0
